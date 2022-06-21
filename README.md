@@ -67,3 +67,6 @@ like implementing user authentication or roles.
   - https://appjobs-general.s3.eu-west-1.amazonaws.com/test-xml-feeds/feed_4.xml
   - https://appjobs-general.s3.eu-west-1.amazonaws.com/test-xml-feeds/feed_5.xml
   - https://appjobs-general.s3.eu-west-1.amazonaws.com/test-xml-feeds/feed_6.xml
+
+## Testing
+- To run test - `php artisan test`
